@@ -14,7 +14,7 @@
 
 <img src="/Project images/Products.png">
 
-<img src="/Project images/Thanks.png">
+
 
 
 
